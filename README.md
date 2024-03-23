@@ -84,7 +84,8 @@ Click to slide [PresentHw4](https://www.canva.com/design/DAF9C1GY7jE/REur4COBG9Q
 + นางสาวสุชานาถ พิลาภ 643021276-2
 + นางสาววริศรา ปันลา 643020519-7
 + นางสาวอนัญญา พูลสวัสดิ์ 643020526-0
-[Link_data](https://data.go.th/dataset/actruck)
+  
+  **click to** [Link_data](https://data.go.th/dataset/actruck)
 
 ***ข้อมูลอุบัติเหตุรถบรรทุก***
 
